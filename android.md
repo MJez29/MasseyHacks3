@@ -1,3 +1,3 @@
 ## Intro to Android Studio
 
-To make an app for Android, you'll need the latest version of Android Studio which can be found [here](https://developer.android.com/studio/index.html)
+For this workshop you'll need the latest versions of [Android Studio](https://developer.android.com/studio/index.html), the Android SDK and [Git](https://git-scm.com/downloads).
