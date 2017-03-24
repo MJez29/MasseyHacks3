@@ -1,4 +1,4 @@
-## Preliminaries for Intro to Game Dev w/ Unity Lecture
+## Intro to Game Dev w/ Unity Lecture
 
 For attendees to be able to participate in the lecture, they must have at least Unity 5.3.5.
 
