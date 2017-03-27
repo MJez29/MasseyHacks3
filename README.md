@@ -1,7 +1,7 @@
 # MasseyHacks3
-The prerequisites repo for MasseyHacks III
+The prerequisites repo for workshops at MasseyHacks III
 
-We'll be hosting:
+We'll be hosting workshops on:
 * [Intro to Web Development](https://github.com/MJez29/MasseyHacks3/blob/master/intro-front-end)
 * [Advanced Web Development](https://github.com/MJez29/MasseyHacks3/blob/master/advanced-front-end.md)
 * [Intro to Android](https://github.com/MJez29/MasseyHacks3/blob/master/android.md)
