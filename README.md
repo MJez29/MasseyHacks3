@@ -2,7 +2,7 @@
 The prerequisites repo for workshops at MasseyHacks III
 
 We'll be hosting workshops on:
-* [Intro to Web Development](https://github.com/MJez29/MasseyHacks3/blob/master/intro-front-end)
+* [Intro to Web Development](https://github.com/MJez29/MasseyHacks3/blob/master/intro-front-end.md)
 * [Advanced Web Development](https://github.com/MJez29/MasseyHacks3/blob/master/advanced-front-end.md)
 * [Intro to Android](https://github.com/MJez29/MasseyHacks3/blob/master/android.md)
 * [Intro to Unity3D](https://github.com/MJez29/MasseyHacks3/blob/master/unity3d.md)
